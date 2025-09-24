@@ -1,4 +1,5 @@
 ### Projeto React Brincando(Use o bash ou prompt fufa do mesmo jeito)
+(obs só fiz umas coisinhas com meu nome e besteiras pra brincar)
 
 (Obs: é necessário criar dentro de uma pasta. O que eu fiz foi criar uma pasta chamada **react**, e dentro dela uma subpasta **router-react**, onde executei os passos abaixo.)
 
